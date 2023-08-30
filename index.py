@@ -17,7 +17,7 @@ print("6) Dashboard de controle de estoque.")
 print("7) Utilização de linguagem mais moderna.")
 print("\nManual disponível no README do GitHub:")
 print("https://github.com/mateusmoraiss/ppizzas.2/blob/main/README.md")
-print("Incluí senhas específicas no manual para acessar o programa com as devidas permissões.")
+print("Incluí a senha para acessar o programa.")
 
 
 '''    CRIAÇÃO DOS DBAS             '''
