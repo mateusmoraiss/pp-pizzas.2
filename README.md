@@ -32,8 +32,8 @@ Esta versão traz uma série de melhorias significativas em relação à versão
 7. Para adicionar, remover ou editar o preço de pizzas ou bebidas do menu, é só editar no código fonte do `caixa.py`, 
 estão em uma lista com seus devidos dicionários fácil de encontrar, nas linhas 42: pizzas, e 55: bebidas. Fazendo isso já virá atualizado no menu e no relatório.
 
-O PPizzas 2.0 é um projeto de treino para aprimorar meu primeiro programa, PPizzas. Criado individualmente, não por uma empresa, ele é funcional e facilmente adaptável a cenários reais, apesar de sua simplicidade.
-Primeira versão para comparar: https://github.com/mateusmoraiss/projeto-pizzaria-C
+O PPizzas 2.0 é um projeto de treino para aprimorar meu primeiro programa, PPizzas. Criado individualmente, ele é funcional e facilmente adaptável a cenários reais, apesar de sua simplicidade.
+Dê uma olhada na [primeira versão do projeto aqui](https://github.com/mateusmoraiss/projeto-pizzaria-C).
 
 ### Curiosidade
 
