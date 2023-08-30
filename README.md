@@ -8,7 +8,7 @@ Bem-vindo ao PPizzas 2.0, uma versão aprimorada do meu programa de controle de 
 
 Para acessar o programa, utilize a senha abaixo:
 
-**Senha:** caixa.py:2805
+**Caixa.py:** 2805
 
 ## Melhorias Marcantes
 
